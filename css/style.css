@@ -1,0 +1,41 @@
+.gBtn {
+    border-style: solid;
+    border-color: blue;
+    border-width: 3px;
+    font-weight: bold;
+    text-align: center;
+    width: 40px;
+    height:40px;
+    background-color: whitesmoke;
+  
+  }
+  .wBtn {
+    width:40px;
+    border: none;
+    border-bottom: 5px solid blue;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+    font-size: 30px;
+    margin-left: 10px;
+    background-color: gainsboro;
+}
+
+.m{
+    margin-left: 30px;
+}
+li {
+    font-weight: bold;
+}
+#btnGp{
+    margin-top: 100px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+.hint{
+    width: 20px;
+    margin-top: 20px;
+}
